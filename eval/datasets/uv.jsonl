@@ -1,0 +1,120 @@
+{"number": 14385, "title": "Leaves lock file in tmp when installing zip file", "created_at": "2025-07-01T05:58:57Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 14451, "title": "uv build backend doesn't support PEP420 implicit namespace packages without __init__.py", "created_at": "2025-07-03T23:31:17Z", "gold_type": "question", "gold_areas": ["area:build-backend"], "gold_duplicate_of": null}
+{"number": 14535, "title": "UV and GPU access for  onnxruntime-gpu", "created_at": "2025-07-10T10:18:19Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 14608, "title": "Cannot install a package from a local folder", "created_at": "2025-07-14T14:56:00Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 12015}
+{"number": 14635, "title": "Active venv using uv", "created_at": "2025-07-15T19:21:19Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 1910}
+{"number": 14648, "title": "`uv pip install` of ssh dependency only prompts to enter the passkey in verbose mode", "created_at": "2025-07-16T12:13:08Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 3783}
+{"number": 14680, "title": "uvx does not find newly published package version on private index", "created_at": "2025-07-17T12:21:59Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 14684, "title": "`--upgrade-package` does not upgrade GutHub-sourced packages", "created_at": "2025-07-17T15:39:24Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 14754, "title": "Unexpected: uv works offline initially, but fails after 5-10 minutes", "created_at": "2025-07-20T17:03:57Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 10380}
+{"number": 14794, "title": "Add `uv` / `uv_build` to the Python Packaging User Guide", "created_at": "2025-07-21T16:03:46Z", "gold_type": null, "gold_areas": [], "gold_duplicate_of": 14672}
+{"number": 14803, "title": "How to run `uv venv` if latest `virtualenv` is unavailable?", "created_at": "2025-07-22T04:01:50Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 14843, "title": "Shadowed `install_name_tool` can break Python installation", "created_at": "2025-07-23T12:33:24Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 14845, "title": "Typos in documentation on data includes for the uv-build backend", "created_at": "2025-07-23T13:23:30Z", "gold_type": "documentation", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 14851, "title": "unsafe-best-match appears incompatible with github-dependencies and to ignore if-necessary-or-explicit", "created_at": "2025-07-23T17:39:56Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 14942, "title": "tokenizers fails to install on macOS via `pyproject.toml`", "created_at": "2025-07-28T15:42:55Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15003, "title": "Specifying the index in `tool.uv.sources` doesn't work with transitive dependencies", "created_at": "2025-07-31T17:49:44Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 8253}
+{"number": 15005, "title": "Allow script dependencies to be locked with `uv pip compile`", "created_at": "2025-07-31T19:33:01Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15042, "title": "Add scripts to uv just like javascript's package managers", "created_at": "2025-08-03T15:16:31Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 5903}
+{"number": 15084, "title": "Reflink failures on macOS 15.5", "created_at": "2025-08-05T16:29:17Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15297, "title": "Dependent local package becomes editable", "created_at": "2025-08-15T04:39:54Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15310, "title": "UV can not fall back to compatible PySide6 installation", "created_at": "2025-08-15T14:14:04Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15329, "title": "Gunicorn worker timeouts in Docker when using uv run", "created_at": "2025-08-17T08:37:06Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15330, "title": "how to install yt-dlp plugins and requests on the uv tools yt-dlp", "created_at": "2025-08-17T09:27:46Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": 14746}
+{"number": 15334, "title": "Python installed via uv doesn't work with tox", "created_at": "2025-08-17T22:36:17Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15403, "title": "Tests in show_settings::* fail due to user-level uv.toml being loaded", "created_at": "2025-08-21T08:48:03Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15429, "title": "python-platfrom is not used when resolving pylock.toml", "created_at": "2025-08-21T19:49:18Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 13413}
+{"number": 15447, "title": "uvx and pinning on a non-python project", "created_at": "2025-08-22T06:56:06Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": 5903}
+{"number": 15455, "title": "FEAT: supporting module-level CLI execution (\u00e0 la `python -m`) directly through `uvx` ?", "created_at": "2025-08-22T14:59:11Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 7552}
+{"number": 15516, "title": "\ud83d\udc1b Possible metadata mismatch between uv pip show and pip show", "created_at": "2025-08-25T14:56:18Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 2526}
+{"number": 15517, "title": "Unable to use pre-commit with certain python versions", "created_at": "2025-08-25T15:47:29Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15566, "title": "Package Override/Dependency Replacement", "created_at": "2025-08-28T08:23:36Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 4422}
+{"number": 15632, "title": "Dependencies in packaged project with scripts (x4 questions)", "created_at": "2025-09-02T15:32:17Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15651, "title": "`uv python list` can fail with Access is denied. (os error 5)", "created_at": "2025-09-03T06:04:46Z", "gold_type": "bug", "gold_areas": ["area:windows"], "gold_duplicate_of": null}
+{"number": 15655, "title": "[tool.uv.build-backend.data] directory silently not included", "created_at": "2025-09-03T12:04:29Z", "gold_type": "question", "gold_areas": ["area:build-backend"], "gold_duplicate_of": null}
+{"number": 15696, "title": "Cannot install uv when HTTPS_PROXY is set on Windows", "created_at": "2025-09-05T08:34:56Z", "gold_type": "bug", "gold_areas": ["area:windows"], "gold_duplicate_of": 10709}
+{"number": 15732, "title": "`uv` and caching", "created_at": "2025-09-08T08:52:06Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15895, "title": "Env var to override `[tool.uv.sources]` for development", "created_at": "2025-09-16T16:17:49Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15905, "title": "Add \"--not-required\" option to uv pip list", "created_at": "2025-09-17T09:56:05Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15914, "title": "Better documentation for `uv sync -v`", "created_at": "2025-09-17T14:56:35Z", "gold_type": "documentation", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 15967, "title": "The command is not in PATH if `--no-cache` is used in `uv tool run`", "created_at": "2025-09-21T06:43:20Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 16037, "title": "Using uv with GraalPy causes some packages to fail to install", "created_at": "2025-09-26T09:21:14Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 16063, "title": "RISC-V64 musllinux binaries", "created_at": "2025-09-29T11:00:49Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 16076, "title": "Index cache-control override malfunctions with username in URL", "created_at": "2025-09-30T14:58:59Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 16107, "title": "Error parsing env variable containing dashes with --env-file flag", "created_at": "2025-10-02T20:28:40Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 16108, "title": "How to prefer cached package version?", "created_at": "2025-10-02T21:32:25Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 16110, "title": "`uv lock` resolves wrong version when using git source + dynamic version field in (optional) dependency", "created_at": "2025-10-03T05:45:20Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 4604}
+{"number": 16239, "title": "PEP723-style comments inside a string literal still causes script-mode execution", "created_at": "2025-10-10T20:17:51Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 12303}
+{"number": 16339, "title": "`uv` does not see Pyenv 3.14 or free-threaded Python installs", "created_at": "2025-10-17T09:44:13Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 16373, "title": "Will you consider supporting conda-forge?", "created_at": "2025-10-20T11:55:59Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 1703}
+{"number": 16376, "title": "Allow Script Installation as CLI Tools", "created_at": "2025-10-20T13:50:50Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 7242}
+{"number": 16379, "title": "Conditional sources with markers don't fall back to registry", "created_at": "2025-10-21T06:41:29Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 14090}
+{"number": 16404, "title": "uv-0.9.5: `pip_install::install_with_system_interpreter` fails (over `EXTERNALLY-MANAGED`?)", "created_at": "2025-10-22T02:34:14Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 16411, "title": "`python -m venv` does not work with uv-managed Python installations", "created_at": "2025-10-22T15:47:47Z", "gold_type": null, "gold_areas": [], "gold_duplicate_of": 380}
+{"number": 16541, "title": "Why uv does not seems to see python packages installed in a different site-packages", "created_at": "2025-10-31T19:07:05Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": 2500}
+{"number": 16634, "title": "`uv build` crashes with hatchling when different items in sdist and wheel", "created_at": "2025-11-07T16:00:39Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 16652, "title": "Add Docker images for the latest Python and Debian versions", "created_at": "2025-11-09T14:01:58Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 16666, "title": "Suggest python version changes when they force you to select an sdist (and it fails to build)", "created_at": "2025-11-10T13:53:15Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 10612}
+{"number": 16803, "title": "Add a native 'cooldown' feature", "created_at": "2025-11-21T04:38:01Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 14992}
+{"number": 16880, "title": "[Bug] Gradio package installed via uv reports correct version (6.0.1) but shows runtime behavior of older version", "created_at": "2025-11-28T13:59:50Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 16913, "title": "Add help page information to the `less` pager prompt again", "created_at": "2025-12-01T18:36:01Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 16999, "title": "Bytecode compilation can fail with \"too many open files\" on default Ubuntu settings", "created_at": "2025-12-05T13:22:53Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 17029, "title": "uv add --update-constraint flag or update current upgrade flag", "created_at": "2025-12-08T10:52:51Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 6794}
+{"number": 17150, "title": "`as_io_error` and coalescing `io::Error` could lead to confusing behaviour/bugs", "created_at": "2025-12-16T15:48:32Z", "gold_type": "enhancement", "gold_areas": ["area:error-messages"], "gold_duplicate_of": null}
+{"number": 17158, "title": "Running a script with --env-file does not load the env file", "created_at": "2025-12-17T05:53:19Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 17178, "title": "No environment marker specific to Termux", "created_at": "2025-12-18T16:32:38Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 17180, "title": "`uv tool run` resolves environment differently depending on type of `--with` argument", "created_at": "2025-12-18T18:18:58Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 17182, "title": "Make usage of `--config-file`/`UV_CONFIG_FILE` visible in verbose output", "created_at": "2025-12-18T20:40:13Z", "gold_type": "enhancement", "gold_areas": ["area:tracing"], "gold_duplicate_of": null}
+{"number": 17195, "title": "Unable to use uv commands after removing .whl file", "created_at": "2025-12-20T00:38:50Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 17260, "title": "Hash mismatch for zstd-compressed wheels (regression in 0.9.20)", "created_at": "2025-12-30T05:07:55Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 17277, "title": "Segmentation faults are not reported to user", "created_at": "2025-12-31T09:12:38Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 11886}
+{"number": 17323, "title": "Grouped, structured output for `uv lock --upgrade`", "created_at": "2026-01-05T09:08:31Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 17377, "title": "uv init idempotency", "created_at": "2026-01-09T13:26:28Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 17417, "title": "uv self update not working for fresh install (also uvw.exe quarantined by Windows Defender)", "created_at": "2026-01-12T15:21:50Z", "gold_type": null, "gold_areas": ["area:windows"], "gold_duplicate_of": 17344}
+{"number": 17430, "title": "Access is Denied on Windows with uv sync. OS Code Error -2147024891", "created_at": "2026-01-12T23:30:15Z", "gold_type": "bug", "gold_areas": ["area:windows"], "gold_duplicate_of": 15968}
+{"number": 17487, "title": "Why needing to build when locking?", "created_at": "2026-01-15T16:04:58Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 17529, "title": "Broken links on GitHub Documentation - looking fro", "created_at": "2026-01-16T16:46:20Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 17640, "title": "uv sync tries to build packages already installed, and fails", "created_at": "2026-01-21T14:16:11Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 17641, "title": "uv venv tells me it is using system when it is really not", "created_at": "2026-01-21T16:03:46Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 17729, "title": "Using index-url only for a specific package", "created_at": "2026-01-28T14:20:10Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 18049, "title": "Custom index (--default-index / --index) \u2014 package page fetched but metadata (/files/...) never requested", "created_at": "2026-02-16T04:31:30Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 18056, "title": "Wheel filename has an invalid package name", "created_at": "2026-02-16T20:58:41Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 12565}
+{"number": 18063, "title": "uv sync --upgrade --tighten", "created_at": "2026-02-17T12:19:10Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 6794}
+{"number": 18128, "title": "The command to activate a virtual environment [uv activate]", "created_at": "2026-02-22T20:08:48Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 1910}
+{"number": 18316, "title": "Panic with invalid content length in range reader", "created_at": "2026-03-05T13:55:35Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 18339, "title": "python list", "created_at": "2026-03-06T07:19:16Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 18390, "title": "uv sync fails for private index when inside virtual environment", "created_at": "2026-03-09T17:59:16Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 18482, "title": "Add additional uvx typo traps", "created_at": "2026-03-15T14:09:51Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 18554, "title": "Support `uv --all-extras --no-project-install` simultaneous usage", "created_at": "2026-03-18T17:33:38Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 18642, "title": "Support resuming interrupted package downloads", "created_at": "2026-03-22T17:57:08Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 16934}
+{"number": 18802, "title": "Dependencies pinned to an index are still searched on pypi", "created_at": "2026-04-01T15:12:43Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 8253}
+{"number": 18847, "title": "exclude-newer: allow exempting packages with no upload date", "created_at": "2026-04-04T12:51:20Z", "gold_type": null, "gold_areas": [], "gold_duplicate_of": 12449}
+{"number": 19025, "title": "pluggable credentials providers", "created_at": "2026-04-16T17:33:49Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 19136, "title": "Support RFC 8628 device auth flow with `uv auth login`", "created_at": "2026-04-23T22:00:29Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 19140, "title": "Feature Request: Support querying dependencies of uninstalled packages", "created_at": "2026-04-24T03:56:47Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 19185, "title": "Caching with dynamically linked binary extensions build from source can lead to mismatches between host and container", "created_at": "2026-04-27T12:08:04Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 19186, "title": "Is there a way to add local packages from `requirements.txt` without any pyproject.toml file present?", "created_at": "2026-04-27T13:06:58Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 19200, "title": "Failure to download packages from Azure Artifacts starting version 0.11.8", "created_at": "2026-04-28T11:02:37Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 19279, "title": "`--preview-features target-workspace-discovery` doesn't work: how am I expected to write my script?", "created_at": "2026-05-05T09:16:51Z", "gold_type": "question", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 19324, "title": "Installation fails if a direct dependency pins a prerelease package", "created_at": "2026-05-08T03:35:28Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 19362, "title": "OPENSSL_Uplink: no OPENSSL_Applink on Windows with uv-managed Python", "created_at": "2026-05-11T15:55:28Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 14333}
+{"number": 19375, "title": "`uv lock` error message is unclear when dependencies are quarantined", "created_at": "2026-05-12T11:20:19Z", "gold_type": "enhancement", "gold_areas": ["area:error-messages"], "gold_duplicate_of": null}
+{"number": 19395, "title": "Dangerous --clear", "created_at": "2026-05-13T18:04:40Z", "gold_type": "bug", "gold_areas": ["area:cli", "area:environments"], "gold_duplicate_of": null}
+{"number": 19534, "title": "uv fails to find packages when --find-links used if html in upper case", "created_at": "2026-05-22T13:07:28Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 19873, "title": "failt to create venv in windows", "created_at": "2026-06-16T07:50:26Z", "gold_type": "bug", "gold_areas": ["area:windows"], "gold_duplicate_of": 15968}
+{"number": 19874, "title": "Use Authentication by default when domain scoped credential exist", "created_at": "2026-06-16T10:03:14Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 19888, "title": "Declarative management of installed Python versions and tools (`--exact` / sync)", "created_at": "2026-06-17T08:27:27Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 19918, "title": "Support project-local task aliases in pyproject.toml", "created_at": "2026-06-19T04:05:30Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 5903}
+{"number": 19948, "title": "Add an option to suppress the \"excluded packages\" footer comment in `uv pip compile`", "created_at": "2026-06-22T10:24:51Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 20906, "title": "Kaspersky System Watcher flags uv.exe as PDM:Trojan.Win32.Generic", "created_at": "2026-08-03T03:23:46Z", "gold_type": "question", "gold_areas": ["area:windows"], "gold_duplicate_of": 20792}
+{"number": 20907, "title": "File collisions between two distributions are resolved silently, survive uninstall of both, and uv sync neither detects nor restores the missing files", "created_at": "2026-08-03T10:07:04Z", "gold_type": null, "gold_areas": [], "gold_duplicate_of": 15357}
+{"number": 20949, "title": "Backwards incompatible cache change in uv 0.12.0", "created_at": "2026-08-05T01:04:43Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 20983, "title": "uv audit --ignore-until-fixed=ALL", "created_at": "2026-08-06T08:58:33Z", "gold_type": "enhancement", "gold_areas": ["area:uv-audit"], "gold_duplicate_of": null}
+{"number": 20993, "title": "Global python pin file environment variable", "created_at": "2026-08-06T16:16:40Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 21034, "title": "centralized-project-envs: disable creation of .venv symlink", "created_at": "2026-08-10T09:32:05Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 21151, "title": "statically linked uv segfaults on riscv64", "created_at": "2026-08-16T10:55:22Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 21392, "title": "support `uv lint` command to run `ruff check`", "created_at": "2026-09-01T06:34:37Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": 16314}
+{"number": 21954, "title": "`uv lock` scales exponentially with the size of a single `[tool.uv] conflicts` group", "created_at": "2026-09-23T19:48:30Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": 18317}
+{"number": 21978, "title": "nushell's venv activation script doesn't work", "created_at": "2026-09-25T00:49:43Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 22089, "title": "Flag '--no-default-groups' has no effect with uv audit", "created_at": "2026-09-30T06:29:11Z", "gold_type": "bug", "gold_areas": [], "gold_duplicate_of": null}
+{"number": 22941, "title": "Allow customizing the type checker used in `uv check`", "created_at": "2026-10-26T19:29:03Z", "gold_type": "enhancement", "gold_areas": [], "gold_duplicate_of": null}

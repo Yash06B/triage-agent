@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+dist/
+build/
+
+# Issue snapshots are reproducible with `triage fetch astral-sh/uv`
+data/
+# Traces from live `triage run` sessions
+runs/
+eval/*.log
